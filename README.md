@@ -1,0 +1,2 @@
+# ECG-Signal-Classification-Using-Normalized-LMS-and-K-nearest-neighbours-algorithm
+ECG signal pre-processing and KNN based beat classification are performed to categorize the signal into normal and   abnormal subjects. LMS based adaptive filters are used in ECG signal pre-processing for the removal of noise.   Compressing the processed denoised signal to decrease the time delay by selective feature selection.
